@@ -1,0 +1,9 @@
+C:\CS\CSharp\PassMan\PassMan\bin\Debug\PassMan.exe.config
+C:\CS\CSharp\PassMan\PassMan\bin\Debug\PassMan.exe
+C:\CS\CSharp\PassMan\PassMan\bin\Debug\PassMan.pdb
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.csprojResolveAssemblyReference.cache
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.Form1.resources
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.Properties.Resources.resources
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.csproj.GenerateResource.Cache
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.exe
+C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.pdb
