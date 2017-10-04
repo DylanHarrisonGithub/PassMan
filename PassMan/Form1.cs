@@ -19,8 +19,8 @@ namespace PassMan
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if ((textBox2.Text.Length < 1) || (textBox2.Text.Length > 128)) {
-                System.Windows.Forms.MessageBox.Show("Text must consist of 1 to 128 characters");
+            if ((textBox2.Text.Length < 1) || (textBox2.Text.Length > 129)) {
+                System.Windows.Forms.MessageBox.Show("Text must consist of 1 to 129 characters");
             } else if (textBox1.Text.Length < 1)
             {
                 System.Windows.Forms.MessageBox.Show("Password cannot be empty string");
@@ -33,7 +33,7 @@ namespace PassMan
                 Cursor.Current = Cursors.WaitCursor;
                 maintext = BigIntegerExtensions.Encrypt(plaintext, password, 128);
                 string encryptedText = new string(Encoding.ASCII.GetChars(maintext.ToByteArray()));
-                if (encryptedText.Length > 128)
+                if (encryptedText.Length > 129)
                 {
                     System.Windows.Forms.MessageBox.Show("Failed to encrypt message with that password. Try changing your password or message.");
                     maintext = new BigInteger(Encoding.ASCII.GetBytes(textBox2.Text));
@@ -48,7 +48,7 @@ namespace PassMan
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if ((textBox2.Text.Length < 1) || (textBox2.Text.Length > 128))
+            if ((textBox2.Text.Length < 1) || (textBox2.Text.Length > 129))
             {
                 System.Windows.Forms.MessageBox.Show("Text must consist of 1 to 128 characters");
             }

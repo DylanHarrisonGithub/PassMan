@@ -7,3 +7,13 @@ C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.Properties.Resources.resources
 C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.csproj.GenerateResource.Cache
 C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.exe
 C:\CS\CSharp\PassMan\PassMan\obj\Debug\PassMan.pdb
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\bin\Debug\PassMan.exe.config
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\bin\Debug\PassMan.exe
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\bin\Debug\PassMan.pdb
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.csprojResolveAssemblyReference.cache
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.Form1.resources
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.Properties.Resources.resources
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.csproj.GenerateResource.Cache
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.csproj.CoreCompileInputs.cache
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.exe
+C:\Users\ThatOneGuy\Desktop\PassMan\PassMan\obj\Debug\PassMan.pdb
